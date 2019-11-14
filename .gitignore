@@ -34,3 +34,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# This folder
+[Mm]y [Ee]ditor [Oo]nly
